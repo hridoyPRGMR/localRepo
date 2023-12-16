@@ -9,7 +9,7 @@ public class hello{
         int n=in.nextInt();
         in.close();
 
-        System.out.println(n);
-        System.out.println("Hello Github_i am shaon");
+        Sytem.out.println(n);
+        System.out.println("Hello Github_i am hridoy");
     }
 }
